@@ -86,10 +86,17 @@ const LandingPage = () => {
                     Comenzar Ahora
                   </Button>
                 </Link>
-                <Button variant="outline" size="lg" className="w-full sm:w-auto">
-                  <Download className="w-5 h-5 mr-2" />
-                  Descargar App
-                </Button>
+                <a
+                  href="https://expo.dev/artifacts/eas/jJuZchCKi8R132UqY1w2nm.apk"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  download
+                >
+                  <Button variant="outline" size="lg" className="w-full sm:w-auto">
+                    <Download className="w-5 h-5 mr-2" />
+                    Descargar App
+                  </Button>
+                </a>
               </div>
             </div>
             <div className="relative">
