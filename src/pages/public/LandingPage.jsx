@@ -87,7 +87,7 @@ const LandingPage = () => {
                   </Button>
                 </Link>
                 <a
-                  href="https://expo.dev/artifacts/eas/jJuZchCKi8R132UqY1w2nm.apk"
+                  href="https://expo.dev/artifacts/eas/heFB2pqoC35YA45cW1fPRa.apk"
                   target="_blank"
                   rel="noopener noreferrer"
                   download
